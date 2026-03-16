@@ -25,4 +25,5 @@ additional_files:
   - name: docs/PROJECT_IDEAS.md
   - name: participants/genevieve/project/README.md
   - name: participants/genevieve/project/build.gradle
+  - name: participants/genevieve/project/src/SimpleBot.java
 yaml_version: 5
